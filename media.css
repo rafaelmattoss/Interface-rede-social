@@ -1,0 +1,9 @@
+@charset "Utf-8";
+
+@media screen and (max-width:700px) {
+
+    header{
+        display: none;
+    }
+    
+}
