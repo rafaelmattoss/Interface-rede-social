@@ -3,18 +3,19 @@
 *{
     padding: 0%;
     margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 header{
     display: flex;
     background-color: rgb(30, 184, 255);
-    gap: 20px;
+    gap: 40px;
     justify-content: right;
     padding: 20px;
 }
 
 header > div{
-    background-color: rgb(255, 254, 254);
+    background-color: rgb(255, 255, 255);
     height: 50px;
     width: 50px;
     border-radius: 50%;
@@ -28,5 +29,84 @@ header > div{
     height: 80px;
     background-image: url(imagem/pedro.jpg) ;
 }
+
+#larissa{
+    width: 60px;
+    height: 60px;
+    background-image: url(imagem/larissa.jpg) ;
+}
+
+#maria{
+    width: 60px;
+    height: 60px;
+    background-image: url(imagem/hugo.jpg) ;
+}
+
+#thalita{
+    width: 60px;
+    height: 60px;
+    background-image: url(imagem/jhow.jpg) ;
+}
+
+
+#monica{
+    width: 60px;
+    height: 60px;
+    background-image: url(imagem/ligia.jpg) ;
+}
+
+main{
+    margin-top: 50px;
+}
+
+#publi{
+    display: flex;
+    align-items: center;
+   gap: 20px;  
+  justify-content: center;
+  margin-bottom: 80px;
+}
+#pedroi{
+    border-radius:50% ;
+    background-image: url(imagem/larissa.jpg);
+    background-size: cover;
+    background-color: black;
+    height: 40px;
+    width: 40px;
+}
+
+#larissai{
+
+    border-radius:50% ;
+    background-image: url(imagem/pedro.jpg);
+    background-size: cover;
+    background-color: black;
+    height: 40px;
+    width: 40px;
+    margin-left: 20px;
+
+}
+
+#public{
+    display: flex;
+    align-items: center;
+    gap: 20px;  
+    justify-content: center;
+    background-color: rgba(127, 255, 212, 0.445);
+    padding: 10px;
+    width: 400px;
+    margin: auto;
+    border-radius: 10px;
+    
+
+}
+
+#public >p{
+    width: 265px;
+    margin-left: 20px;
+}
+
+
+
 
 
