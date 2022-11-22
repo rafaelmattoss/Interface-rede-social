@@ -70,6 +70,7 @@ main{
     margin: auto;
     border-radius: 10px;
     margin-bottom: 50px;
+    border: 1px solid black;
     
 }
 #pedroi{
@@ -103,7 +104,9 @@ main{
     width: 300px;
     margin: auto;
     border-radius: 10px;
-    
+    border: 1px solid black;
+    margin-bottom: 50px;
+
 
 }
 
@@ -111,6 +114,32 @@ main{
     width: 265px;
     margin-left: 20px;
 }
+
+#vitor{
+    display: flex;
+    align-items: center;
+    gap: 20px;  
+    justify-content: center;
+    background-color: rgba(127, 255, 212, 0.445);
+    padding: 20px;
+    width: 300px;
+    margin: auto;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+#vic{
+
+    border-radius:50% ;
+    background-image: url(imagem/jhow.jpg);
+    background-size: cover;
+    background-color: black;
+    height: 40px;
+    width: 40px;
+    margin-left: 20px;
+
+}
+
 
 
 
