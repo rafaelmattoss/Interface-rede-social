@@ -62,9 +62,15 @@ main{
 #publi{
     display: flex;
     align-items: center;
-   gap: 20px;  
-  justify-content: center;
-  margin-bottom: 80px;
+    gap: 20px;  
+    justify-content: center;
+    background-color: rgba(127, 255, 212, 0.445);
+    padding: 20px;
+    width: 300px;
+    margin: auto;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    
 }
 #pedroi{
     border-radius:50% ;
@@ -93,8 +99,8 @@ main{
     gap: 20px;  
     justify-content: center;
     background-color: rgba(127, 255, 212, 0.445);
-    padding: 10px;
-    width: 400px;
+    padding: 20px;
+    width: 300px;
     margin: auto;
     border-radius: 10px;
     
