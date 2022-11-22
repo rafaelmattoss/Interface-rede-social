@@ -10,7 +10,7 @@
     display: flex;
     background-color: #40b6da;
     height: 80px;
-    border-bottom: 1px solid black;
+    max-width: 100%;
 }
 
 #logo{
