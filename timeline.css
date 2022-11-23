@@ -227,17 +227,16 @@ menu{
      padding: 10px;
      gap: 20px;
      background-color: white;
-     justify-content: center;
+     justify-content: left;
      margin: 10px;
     
 }
 
 #social{
     background-color: #40b6da;
-    display: flex;
     justify-content: space-between;
-    align-items: center;
-   
+    padding-bottom: 20px;
+    
 
 }
 
@@ -247,15 +246,18 @@ menu{
 }
 
 #ove > img{
-   width: 100px;
-   height: 100px;
+  display: block;
+  margin: auto;
+   width: 200px;
+   height: 200px;
 }
 
 #itens{
     margin: 20px;
     background-color: white;
-    margin-right: 50px;
+    margin: auto;
     border-radius: 10px;
+    width: 400px;
 
 }
 
