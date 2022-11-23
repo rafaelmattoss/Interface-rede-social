@@ -188,6 +188,7 @@ menu > ul > li:hover{
 
 menu{
     display: none;
+    
 }
 
 #cpedro{
@@ -241,7 +242,7 @@ menu{
 }
 
 #conversas>p {
-    width: 150px;
+    width: 120px;
     
 }
 
@@ -253,7 +254,8 @@ menu{
 #itens{
     margin: 20px;
     background-color: white;
-    
+    margin-right: 50px;
+    border-radius: 10px;
 
 }
 
