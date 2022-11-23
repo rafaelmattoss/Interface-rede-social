@@ -232,7 +232,6 @@ menu{
 }
 
 #social{
-    margin-left: auto;
     background-color: #40b6da;
     display: flex;
     justify-content: space-between;
@@ -252,7 +251,6 @@ menu{
 }
 
 #itens{
-    width: 100%;
     margin: 20px;
     background-color: white;
     
