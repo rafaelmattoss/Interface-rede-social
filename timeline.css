@@ -222,11 +222,11 @@ menu{
 #conversas{
      display: flex;
      align-items: center;
-     padding: 20px;
+     padding: 10px;
      gap: 20px;
      background-color: white;
      justify-content: right;
-     
+    
 }
 
 #social{
@@ -235,6 +235,8 @@ menu{
     display: flex;
     justify-content: space-between;
     align-items: center;
+   
+
 }
 
 #conversas>p {
@@ -245,6 +247,13 @@ menu{
 #ove > img{
    width: 100px;
    height: 100px;
+}
+
+#itens{
+    width: 100%;
+    margin: 10px;
+    background-color: white;
+
 }
 
     
