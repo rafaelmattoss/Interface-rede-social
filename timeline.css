@@ -225,7 +225,8 @@ menu{
      padding: 10px;
      gap: 20px;
      background-color: white;
-     justify-content: right;
+     justify-content: center;
+     margin: 10px;
     
 }
 
@@ -253,6 +254,7 @@ menu{
     width: 100%;
     margin: 20px;
     background-color: white;
+    
 
 }
 
